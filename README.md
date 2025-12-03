@@ -71,3 +71,4 @@ This is a combination of the [UN M49](https://unstats.un.org/unsd/methodology/m4
 
 - The 3166-1 / 3166-2 list is easiest found in the Debian `iso-codes` package, after which it is located in `/usr/share/iso-codes/json/iso_3166-[12].json`.
 - The UN M49 can be found [here](https://unstats.un.org/unsd/methodology/m49/overview).
+
